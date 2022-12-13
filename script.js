@@ -38,9 +38,3 @@ async function fetchdata() {
   newUser.addEventListener("click", () => {
     showuser();
   });
-
-showuser();
-const newUser =document.getElementById("getUser");
-newUser.addEventListener("click", () => {
-  showuser();
-});
