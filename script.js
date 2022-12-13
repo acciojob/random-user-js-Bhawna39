@@ -13,8 +13,7 @@ function renderText(domElt, text) {
         wordCount += 1;
       }
     }
-  
-    return wordCount;
+   return wordCount;
   }
   
   function handleChar(text) {
